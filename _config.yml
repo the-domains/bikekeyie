@@ -1,4 +1,3 @@
-layout_spectrum: 0.5970265378709882
 typography_spectrum: 0.2967715389095247
 color:
   brandStrength: 0.8946966968942434
@@ -11,4 +10,6 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.5970265378709882
 name: bikekey.ie
+title: Motor Cycle Keys
