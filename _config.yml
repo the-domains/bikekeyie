@@ -1,0 +1,14 @@
+layout_spectrum: 0.5970265378709882
+typography_spectrum: 0.2967715389095247
+color:
+  brandStrength: 0.8946966968942434
+  lightness: 0.23124576965346932
+  saturation: 0.3535154750570655
+  rhythmicContrast: 0.6752203174401075
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: bikekey.ie
